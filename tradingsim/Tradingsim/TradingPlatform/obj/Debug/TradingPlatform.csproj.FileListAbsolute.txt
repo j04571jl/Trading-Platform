@@ -1,0 +1,73 @@
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe.config
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.exe
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.pdb
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.pdb
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csprojResolveAssemblyReference.cache
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Form1.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.MainPage.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Properties.Resources.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csproj.GenerateResource.Cache
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe.config
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.exe
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.pdb
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.pdb
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csprojResolveAssemblyReference.cache
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Form1.resources
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.MainPage.resources
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Properties.Resources.resources
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csproj.GenerateResource.Cache
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe.config
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.exe
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.pdb
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.pdb
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csprojResolveAssemblyReference.cache
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Form1.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.MainPage.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Properties.Resources.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockView.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.UserDWform.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockBuy.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csproj.GenerateResource.Cache
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockView.resources
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.UserDWform.resources
+P:\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockBuy.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatformDB.mdf
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatformDB_log.ldf
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatformDB.mdf
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatformDB_log.ldf
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe.config
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.exe
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatform.pdb
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.Ado.dll
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.dll
+F:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.SqlServer.dll
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csprojResolveAssemblyReference.cache
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Form1.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.MainPage.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Properties.Resources.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockView.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.UserDWform.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockBuy.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.csproj.GenerateResource.Cache
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.exe
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.pdb
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.Ado.dll
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.dll
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.SqlServer.dll
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Deposit.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Withdraw.resources
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatformDB.mdf
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\TradingPlatformDB_log.ldf
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.Ado.dll
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.dll
+D:\tradingsim\Tradingsim\TradingPlatform\bin\Debug\Simple.Data.SqlServer.dll
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Help.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Deposit.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockView.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.UserDWform.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.StockBuy.resources
+D:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Withdraw.resources
+F:\tradingsim\Tradingsim\TradingPlatform\obj\Debug\TradingPlatform.Help.resources

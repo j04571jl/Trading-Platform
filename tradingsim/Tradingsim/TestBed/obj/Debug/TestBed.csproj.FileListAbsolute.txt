@@ -1,0 +1,12 @@
+F:\tradingsim\Tradingsim\TestBed\obj\Debug\TestBed.csprojResolveAssemblyReference.cache
+F:\tradingsim\Tradingsim\TestBed\obj\Debug\TestBed.Test.resources
+F:\tradingsim\Tradingsim\TestBed\obj\Debug\TestBed.csproj.GenerateResource.Cache
+F:\tradingsim\Tradingsim\TestBed\bin\Debug\TestBed.exe.config
+F:\tradingsim\Tradingsim\TestBed\bin\Debug\TestBed.exe
+F:\tradingsim\Tradingsim\TestBed\bin\Debug\TestBed.pdb
+F:\tradingsim\Tradingsim\TestBed\bin\Debug\Simple.Data.Ado.dll
+F:\tradingsim\Tradingsim\TestBed\bin\Debug\Simple.Data.dll
+F:\tradingsim\Tradingsim\TestBed\bin\Debug\Simple.Data.SqlServer.dll
+F:\tradingsim\Tradingsim\TestBed\obj\Debug\TestBed.exe
+F:\tradingsim\Tradingsim\TestBed\obj\Debug\TestBed.pdb
+F:\tradingsim\Tradingsim\TestBed\obj\Debug\TestBed.Form1.resources

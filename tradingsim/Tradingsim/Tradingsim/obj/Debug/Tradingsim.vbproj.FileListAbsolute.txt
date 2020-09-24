@@ -1,0 +1,30 @@
+P:\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.exe.config
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.exe.config
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\tradingsimDatabase1.mdf
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\tradingsimDatabase1_log.ldf
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.exe
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.pdb
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.xml
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.Form1.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.Resources.resources
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.vbproj.GenerateResource.Cache
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.exe
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.xml
+\\keap-host\pupilusers\10LloydJ\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.pdb
+P:\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.exe
+P:\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.xml
+P:\ALEVEL COMPUTER STUDIES\COMPONENT 3\ALevel program\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.pdb
+F:\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.exe.config
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.exe
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.xml
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.pdb
+F:\tradingsim\Tradingsim\Tradingsim\bin\Debug\tradingsimDatabase1.mdf
+F:\tradingsim\Tradingsim\Tradingsim\bin\Debug\tradingsimDatabase1_log.ldf
+F:\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.exe
+F:\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.pdb
+F:\tradingsim\Tradingsim\Tradingsim\bin\Debug\Tradingsim.xml
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.vbprojResolveAssemblyReference.cache
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.Form1.resources
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.LoginForm.resources
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.Resources.resources
+F:\tradingsim\Tradingsim\Tradingsim\obj\Debug\Tradingsim.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+F:\tradingsim\Tradingsim\Tester\bin\Debug\Tester.exe.config
+F:\tradingsim\Tradingsim\Tester\bin\Debug\Tester.exe
+F:\tradingsim\Tradingsim\Tester\bin\Debug\Tester.pdb
+F:\tradingsim\Tradingsim\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+F:\tradingsim\Tradingsim\Tester\obj\Debug\Tester.Form1.resources
+F:\tradingsim\Tradingsim\Tester\obj\Debug\Tester.Properties.Resources.resources
+F:\tradingsim\Tradingsim\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+F:\tradingsim\Tradingsim\Tester\obj\Debug\Tester.exe
+F:\tradingsim\Tradingsim\Tester\obj\Debug\Tester.pdb
